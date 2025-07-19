@@ -5,11 +5,16 @@ I've also included a list of some of my fav **CTF resources** as well as a compr
 
 # Resources
 
-A curated list of tools, tutorials, wargames, distros, and writeups to learn hacking, penetration testing, and CTFs (Capture The Flag). Updated for 2025.
+
+
+Where to discover about CTF
+
+
+
 
 ---
 
-## CTF Starter Packs
+### CTF Starter Packs
 
 - [CTF Tools](https://github.com/zardus/ctf-tools) – Script collection to install useful CTF tools.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) – Huge list of payloads for various vulnerabilities.
@@ -18,7 +23,7 @@ A curated list of tools, tutorials, wargames, distros, and writeups to learn hac
 
 ---
 
-## Operating Systems for Hacking
+### Operating Systems for Hacking
 
 | Distro | Description |
 |--------|-------------|
@@ -32,7 +37,7 @@ A curated list of tools, tutorials, wargames, distros, and writeups to learn hac
 
 ---
 
-## Tutorials & Courses
+### Tutorials & Courses
 
 - [Trail of Bits CTF Field Guide](https://trailofbits.github.io/ctf/)
 - [Hopper's Roppers Intro to CTF Course](https://www.hoppersroppers.org/courseCTF.html)
@@ -43,7 +48,7 @@ A curated list of tools, tutorials, wargames, distros, and writeups to learn hac
 
 ---
 
-## Wargames (Practice Platforms)
+### Wargames (Practice Platforms)
 
 | Platform | Focus |
 |----------|-------|
@@ -59,7 +64,7 @@ A curated list of tools, tutorials, wargames, distros, and writeups to learn hac
 
 ---
 
-## Self-Hosted Vulnerable Apps
+### Self-Hosted Vulnerable Apps
 
 - [Damn Vulnerable Web App (DVWA)](http://www.dvwa.co.uk/)
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
@@ -68,7 +73,7 @@ A curated list of tools, tutorials, wargames, distros, and writeups to learn hac
 
 ---
 
-## Writeups Collections
+### Writeups Collections
 
 *Collections of CTF write-ups*
 
@@ -85,7 +90,7 @@ A curated list of tools, tutorials, wargames, distros, and writeups to learn hac
 
 ---
 
-## Wikis & Cheatsheets
+### Wikis & Cheatsheets
 
 - [CTF Cheatsheet](https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/)
 - [bi0s Wiki](https://teambi0s.gitlab.io/bi0s-wiki/)
@@ -94,14 +99,14 @@ A curated list of tools, tutorials, wargames, distros, and writeups to learn hac
 
 ---
 
-## CTF Event Trackers
+### CTF Event Trackers
 
 - [CTFTime](https://ctftime.org) – CTF calendar, ratings, and stats
 - [Reddit /r/securityCTF](https://www.reddit.com/r/securityCTF/) – CTF discussion and writeups
 
 ---
 
-## Rentry-style Underground Notes
+### Rentry-style Underground Notes
 
 
 - [Reverse Shell Cheat Sheet](https://rentry.co/revshells)
@@ -112,12 +117,12 @@ A curated list of tools, tutorials, wargames, distros, and writeups to learn hac
 
 ---
 
-## Contributions
+### Contributions
 
 Pull requests are welcome. If you have more tools, platforms, or guides, feel free to contribute.
 
 ---
 
-## License
+### License
 
 MIT
